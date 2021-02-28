@@ -1,2 +1,2 @@
 # simple-quote-page
-CodeBerry  Git gyakorlás
+CodeBerry  Git gyakorlás mentés 2.1
